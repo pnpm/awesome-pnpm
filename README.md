@@ -9,6 +9,7 @@
 - [Articles](#articles)
 - [Packages](#packages)
 - [Works with pnpm](#works-with-pnpm)
+- [Benchmarks](#benchmarks)
 - [Support](#support)
 
 ## Articles
@@ -25,6 +26,11 @@
 ## Works with pnpm
 
 * [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
+
+## Benchmarks
+
+- [Node package manager benchmark](https://github.com/pnpm/node-package-manager-benchmark)
+- [npm install benchmarks](https://github.com/JamieMason/npm-cache-benchmark)
 
 ## Support
 
