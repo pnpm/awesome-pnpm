@@ -22,6 +22,8 @@
 ## Packages
 
 * [pnpmr](https://github.com/pnpm/pnpmr) - Run pnpm on all subpackages
+* [linkall](https://github.com/paulpflug/linkall) - Convenient tool to link up local packages
+* [which-pm](https://github.com/zkochan/which-pm) - Detects what package manager was used for installation
 
 ## Works with pnpm
 
