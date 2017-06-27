@@ -2,7 +2,7 @@
 
 > [pnpm](https://ava.li) is a fast & disk space efficient package manager
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
 ## Contents
 
