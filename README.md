@@ -7,6 +7,7 @@
 ## Contents
 
 - [Articles](#articles)
+- [Videos](#videos)
 - [Packages](#packages)
 - [Works with pnpm](#works-with-pnpm)
 - [Benchmarks](#benchmarks)
@@ -19,6 +20,12 @@
 - [pnpm’s strictness helps to avoid silly bugs](https://medium.com/pnpm/pnpms-strictness-helps-to-avoid-silly-bugs-9a15fb306308)
 - [Overview of differences between npm, yarn and pnpm](https://hackernoon.com/understanding-differences-between-npm-yarn-and-pnpm-31bb6b0c87b3)
 - [Why I still don't use Yarn](https://intoli.com/blog/node-package-manager-benchmarks/)
+
+## Videos
+
+In Russian:
+
+- [About pnpm v1](https://www.youtube.com/watch?v=rMb4OHL9tWI&feature=youtu.be&t=2m52s)
 
 ## Packages
 
