@@ -21,6 +21,12 @@
 - [Overview of differences between npm, yarn and pnpm](https://hackernoon.com/understanding-differences-between-npm-yarn-and-pnpm-31bb6b0c87b3)
 - [Why I still don't use Yarn](https://intoli.com/blog/node-package-manager-benchmarks/)
 
+## Presentations
+
+In French:
+
+- [Npm, Yarn et si la vérité était ailleurs?](https://speakerdeck.com/vincent_piard/npm-yarn-et-si-la-verite-etait-ailleurs)
+
 ## Videos
 
 In Russian:
