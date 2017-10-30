@@ -23,13 +23,15 @@
 
 ## Presentations
 
-In French:
+In French :fr::
 
-- [Npm, Yarn et si la vérité était ailleurs?](https://speakerdeck.com/vincent_piard/npm-yarn-et-si-la-verite-etait-ailleurs)
+- Npm, Yarn et si la vérité était ailleurs?
+  - [Slides](https://speakerdeck.com/vincent_piard/npm-yarn-et-si-la-verite-etait-ailleurs)
+  - [Video](https://youtu.be/0hq38OWt0EM)
 
 ## Videos
 
-In Russian:
+In Russian :ru::
 
 - [About pnpm v1](https://www.youtube.com/watch?v=rMb4OHL9tWI&feature=youtu.be&t=2m52s)
 
