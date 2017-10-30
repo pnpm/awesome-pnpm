@@ -21,19 +21,16 @@
 - [Overview of differences between npm, yarn and pnpm](https://hackernoon.com/understanding-differences-between-npm-yarn-and-pnpm-31bb6b0c87b3)
 - [Why I still don't use Yarn](https://intoli.com/blog/node-package-manager-benchmarks/)
 
-## Presentations
-
-In French :fr::
-
-- Npm, Yarn et si la vérité était ailleurs?
-  - [Slides](https://speakerdeck.com/vincent_piard/npm-yarn-et-si-la-verite-etait-ailleurs)
-  - [Video](https://youtu.be/0hq38OWt0EM)
-
 ## Videos
 
 In Russian :ru::
 
 - [About pnpm v1](https://www.youtube.com/watch?v=rMb4OHL9tWI&feature=youtu.be&t=2m52s)
+- [Npm v5, Yarn или pnpm, что круче?](https://youtu.be/TIeMLwH9SEU) - [slides](http://piterjs.org/events/16/Mike_Bashurov.pdf?utm_source=twitter.com&utm_medium=social&utm_campaign=vystupaet-maykl-bashurov--npm-v5--yarn)
+
+In French :fr::
+
+- [Npm, Yarn et si la vérité était ailleurs?](https://youtu.be/0hq38OWt0EM) - [slides](https://speakerdeck.com/vincent_piard/npm-yarn-et-si-la-verite-etait-ailleurs) - by [@lynchmaniac](https://github.com/lynchmaniac)
 
 ## Packages
 
