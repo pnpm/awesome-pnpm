@@ -23,6 +23,10 @@
 
 ## Videos
 
+In English :uk::us::
+
+- [Why I stopped using NPM for PNPM And You should too!](https://youtu.be/7L7nBtaGAlM)
+
 In Russian :ru::
 
 - [About pnpm v1](https://www.youtube.com/watch?v=rMb4OHL9tWI&feature=youtu.be&t=2m52s)
