@@ -47,6 +47,7 @@ In Ukrainian:
 
 ## Works with pnpm
 
+* [Renovate](https://renovateapp.com/) - Automated dependency updates, for humans
 * [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies
 * [linkall](https://github.com/paulpflug/linkall) - Convenient tool to link up local packages
 
