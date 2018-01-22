@@ -20,6 +20,7 @@
 - [pnpm’s strictness helps to avoid silly bugs](https://medium.com/pnpm/pnpms-strictness-helps-to-avoid-silly-bugs-9a15fb306308)
 - [Overview of differences between npm, yarn and pnpm](https://hackernoon.com/understanding-differences-between-npm-yarn-and-pnpm-31bb6b0c87b3)
 - [Why I still don't use Yarn](https://intoli.com/blog/node-package-manager-benchmarks/)
+- [Rush ~ NPM vs PNPM vs Yarn](https://github.com/Microsoft/web-build-tools/wiki/Rush-%7E-NPM-vs-PNPM-vs-Yarn)
 
 ## Videos
 
