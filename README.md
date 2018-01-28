@@ -37,7 +37,7 @@ In French :fr::
 
 - [Npm, Yarn et si la vérité était ailleurs?](https://youtu.be/0hq38OWt0EM) - [slides](https://speakerdeck.com/vincent_piard/npm-yarn-et-si-la-verite-etait-ailleurs) - by [@lynchmaniac](https://github.com/lynchmaniac)
 
-In Ukrainian:
+In Ukrainian :ukraine::
 
 - [pnpm - пакетний менеджер для Node.js](http://bit.ly/pnpm-pr-ukr-1) - by [@zkochan](https://github.com/zkochan)
 
