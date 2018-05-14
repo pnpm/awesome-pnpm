@@ -22,6 +22,7 @@
 - [Why I still don't use Yarn](https://intoli.com/blog/node-package-manager-benchmarks/)
 - [Rush ~ NPM vs PNPM vs Yarn](https://github.com/Microsoft/web-build-tools/wiki/Rush-%7E-NPM-vs-PNPM-vs-Yarn)
 - [Trying pnpm on the JustAnswer multi-package repository](https://www.justanswer.com/blog/engineering/pnpm-on-justanswer-multi-package-repository)
+- [Package Manager Rumble](https://www.telerik.com/blogs/package-manager-rumble)
 
 ## Videos
 
