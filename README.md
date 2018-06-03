@@ -52,6 +52,7 @@ In Ukrainian :ukraine::
 
 * [Renovate](https://renovateapp.com/) - Automated dependency updates, for humans
 * [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies
+* [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) - Find newer versions of package dependencies
 * [linkall](https://github.com/paulpflug/linkall) - Convenient tool to link up local packages
 
 ## Benchmarks
