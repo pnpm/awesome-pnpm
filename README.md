@@ -23,6 +23,7 @@
 - [Rush ~ NPM vs PNPM vs Yarn](https://github.com/Microsoft/web-build-tools/wiki/Rush-%7E-NPM-vs-PNPM-vs-Yarn)
 - [Trying pnpm on the JustAnswer multi-package repository](https://www.justanswer.com/blog/engineering/pnpm-on-justanswer-multi-package-repository)
 - [Package Manager Rumble](https://www.telerik.com/blogs/package-manager-rumble)
+- [NPM, Yarn and PNPM: Which Package Manager Should You Use for SharePoint Framework Projects?](http://www.andrewconnell.com/blog/npm-yarn-pnpm-which-package-manager-should-you-use-for-sharepoint-framework-projects)
 
 ## Videos
 
