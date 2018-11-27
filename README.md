@@ -20,7 +20,7 @@
 - [pnpm’s strictness helps to avoid silly bugs](https://medium.com/pnpm/pnpms-strictness-helps-to-avoid-silly-bugs-9a15fb306308)
 - [Overview of differences between npm, yarn and pnpm](https://hackernoon.com/understanding-differences-between-npm-yarn-and-pnpm-31bb6b0c87b3)
 - [Why I still don't use Yarn](https://intoli.com/blog/node-package-manager-benchmarks/)
-- [Rush ~ NPM vs PNPM vs Yarn](https://github.com/Microsoft/web-build-tools/wiki/Rush-%7E-NPM-vs-PNPM-vs-Yarn)
+- [Rush ~ NPM vs PNPM vs Yarn](https://rushjs.io/pages/maintainer/package_managers/)
 - [Trying pnpm on the JustAnswer multi-package repository](https://www.justanswer.com/blog/engineering/pnpm-on-justanswer-multi-package-repository)
 - [Package Manager Rumble](https://www.telerik.com/blogs/package-manager-rumble)
 - [NPM, Yarn and PNPM: Which Package Manager Should You Use for SharePoint Framework Projects?](http://www.andrewconnell.com/blog/npm-yarn-pnpm-which-package-manager-should-you-use-for-sharepoint-framework-projects)
