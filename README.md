@@ -27,6 +27,10 @@
 - [What is pnpm?](https://flaviocopes.com/pnpm/)
 - [NPM vs Yarn vs PNPM: A Package Manager Comparison](https://smddzcy.com/posts/2019-05-19/npm-vs-yarn-vs-pnpm-package-manager-comparison)
 
+## Podcasts
+
+* [Package Management Showdown](https://anchor.fm/opensourcedeveloperpod/episodes/Package-Management-Showdown-e4fnss)
+
 ## Videos
 
 In English :uk::us::
