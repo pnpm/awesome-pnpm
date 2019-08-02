@@ -26,6 +26,7 @@
 - [NPM, Yarn and PNPM: Which Package Manager Should You Use for SharePoint Framework Projects?](http://www.andrewconnell.com/blog/npm-yarn-pnpm-which-package-manager-should-you-use-for-sharepoint-framework-projects)
 - [What is pnpm?](https://flaviocopes.com/pnpm/)
 - [NPM vs Yarn vs PNPM: A Package Manager Comparison](https://smddzcy.com/posts/2019-05-19/npm-vs-yarn-vs-pnpm-package-manager-comparison)
+- [I reclaimed 10GB of disk space from node_modules](https://dev.to/irreverentmike/i-reclaimed-10gb-of-disk-space-from-node-modules-oal)
 
 ## Podcasts
 
