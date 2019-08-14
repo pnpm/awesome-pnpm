@@ -27,6 +27,7 @@
 - [What is pnpm?](https://flaviocopes.com/pnpm/)
 - [NPM vs Yarn vs PNPM: A Package Manager Comparison](https://smddzcy.com/posts/2019-05-19/npm-vs-yarn-vs-pnpm-package-manager-comparison)
 - [I reclaimed 10GB of disk space from node_modules](https://dev.to/irreverentmike/i-reclaimed-10gb-of-disk-space-from-node-modules-oal)
+- [PNPM-Fast Performant Replacement Of NPM](https://www.zeptobook.com/pnpm-fast-performant-replacement-of-npm/)
 
 ## Podcasts
 
