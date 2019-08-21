@@ -38,6 +38,7 @@
 In English :uk::us::
 
 - [Why I stopped using NPM for PNPM And You should too!](https://youtu.be/7L7nBtaGAlM)
+- [Reduce SPFX Node Modules from 50,000 files to 1,000](https://www.spjeff.com/2019/08/20/video-reduce-spfx-node-modules-from-50000-files-to-1000/)
 
 In Russian :ru::
 
