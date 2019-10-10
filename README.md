@@ -29,6 +29,10 @@
 - [I reclaimed 10GB of disk space from node_modules](https://dev.to/irreverentmike/i-reclaimed-10gb-of-disk-space-from-node-modules-oal)
 - [PNPM-Fast Performant Replacement Of NPM](https://www.zeptobook.com/pnpm-fast-performant-replacement-of-npm/)
 
+In German :de::
+- [JavaScript-Paketmanager pnpm 4 überarbeitet die Verzeichnisstruktur](https://www.heise.de/developer/meldung/JavaScript-Paketmanager-pnpm-4-ueberarbeitet-die-Verzeichnisstruktur-4550827.html)
+- [pnpm 4.0 veröffentlicht: Eine Alternative zu npm mit überarbeitetem Konzept](https://entwickler.de/online/javascript/pnpm-4-0-package-manager-579910357.html)
+
 ## Podcasts
 
 * [Package Management Showdown](https://anchor.fm/opensourcedeveloperpod/episodes/Package-Management-Showdown-e4fnss)
