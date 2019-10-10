@@ -59,7 +59,6 @@ In Ukrainian :ukraine::
 
 ## Packages
 
-* [pnpmr](https://github.com/pnpm/pnpmr) - Run pnpm on all subpackages
 * [which-pm](https://github.com/zkochan/which-pm) - Detects what package manager was used for installation
 
 ## Works with pnpm
