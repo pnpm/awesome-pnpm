@@ -28,6 +28,7 @@
 - [NPM vs Yarn vs PNPM: A Package Manager Comparison](https://smddzcy.com/posts/2019-05-19/npm-vs-yarn-vs-pnpm-package-manager-comparison)
 - [I reclaimed 10GB of disk space from node_modules](https://dev.to/irreverentmike/i-reclaimed-10gb-of-disk-space-from-node-modules-oal)
 - [PNPM-Fast Performant Replacement Of NPM](https://www.zeptobook.com/pnpm-fast-performant-replacement-of-npm/)
+- [An abbreviated history of JavaScript package managers](https://medium.com/@MattGoldwater/an-abbreviated-history-of-javascript-package-managers-f9797be7cf0e)
 
 In German :de::
 - [JavaScript-Paketmanager pnpm 4 überarbeitet die Verzeichnisstruktur](https://www.heise.de/developer/meldung/JavaScript-Paketmanager-pnpm-4-ueberarbeitet-die-Verzeichnisstruktur-4550827.html)
