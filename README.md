@@ -66,9 +66,8 @@ In Ukrainian :ukraine::
 
 ## Works with pnpm
 
+* [changesets](https://github.com/atlassian/changesets) - A way to manage your versioning and changelogs with a focus on monorepos.
 * [Renovate](https://renovateapp.com/) - Automated dependency updates, for humans
-* [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies
-* [linkall](https://github.com/paulpflug/linkall) - Convenient tool to link up local packages
 * [handpick](https://github.com/redaxmedia/handpick) - Handpick conditional dependencies like a boss
 
 ## Benchmarks
