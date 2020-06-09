@@ -30,6 +30,7 @@
 - [PNPM-Fast Performant Replacement Of NPM](https://www.zeptobook.com/pnpm-fast-performant-replacement-of-npm/)
 - [An abbreviated history of JavaScript package managers](https://medium.com/@MattGoldwater/an-abbreviated-history-of-javascript-package-managers-f9797be7cf0e)
 - [The Case for pnpm Over npm or Yarn](https://medium.com/better-programming/the-case-for-pnpm-over-npm-or-yarn-2b221607119)
+- [pnpm: a Space-Efficient JavaScript Package Manager](https://www.infoq.com/news/2020/06/pnpm-javascript-package-manager/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=Web-Development)
 - [Why we switched from Yarn to pnpm ](https://www.takeshape.io/articles/why-we-switched-from-yarn-to-pnpm/)
 
 In German :de::
