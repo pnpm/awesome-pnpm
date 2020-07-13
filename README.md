@@ -32,6 +32,7 @@
 - [The Case for pnpm Over npm or Yarn](https://medium.com/better-programming/the-case-for-pnpm-over-npm-or-yarn-2b221607119)
 - [pnpm: a Space-Efficient JavaScript Package Manager](https://www.infoq.com/news/2020/06/pnpm-javascript-package-manager/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=Web-Development)
 - [Why we switched from Yarn to pnpm ](https://www.takeshape.io/articles/why-we-switched-from-yarn-to-pnpm/)
+- [Using pnpm with private registries in Bytesafe](https://bytesafe.dev/posts/pnpm-package-manager/)
 - [Mono repository done right!](https://blog.ghaiklor.com/2020/07/12/mono-repository-done-right/comment-page-1/)
 
 In German :de::
