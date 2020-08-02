@@ -68,10 +68,12 @@ In Ukrainian :ukraine::
 * [which-pm](https://github.com/zkochan/which-pm) - Detects what package manager was used for installation
 * [gatsby-plugin-pnpm](https://github.com/Js-Brecht/gatsby-plugin-pnpm) - Provides PNPM compatible module resolvers to Webpack for Gatsby
 
-## Works with pnpm
+## Toolings with pnpm support
 
+* [rush](https://rushjs.io/)
 * [changesets](https://github.com/atlassian/changesets) - A way to manage your versioning and changelogs with a focus on monorepos.
 * [Renovate](https://renovateapp.com/) - Automated dependency updates, for humans
+* [syncpack](https://github.com/JamieMason/syncpack)
 * [handpick](https://github.com/redaxmedia/handpick) - Handpick conditional dependencies like a boss
 
 ## Benchmarks
