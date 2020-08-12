@@ -75,6 +75,7 @@ In Ukrainian :ukraine::
 * [Renovate](https://renovateapp.com/) - Automated dependency updates, for humans
 * [syncpack](https://github.com/JamieMason/syncpack)
 * [handpick](https://github.com/redaxmedia/handpick) - Handpick conditional dependencies like a boss
+* [Kretes](https://kretes.dev/) - A programming environment for building full-stack apps in TypeScript.
 
 ## Benchmarks
 
