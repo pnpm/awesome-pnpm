@@ -76,6 +76,7 @@ In Ukrainian :ukraine::
 * [syncpack](https://github.com/JamieMason/syncpack)
 * [handpick](https://github.com/redaxmedia/handpick) - Handpick conditional dependencies like a boss
 * [Kretes](https://kretes.dev/) - A programming environment for building full-stack apps in TypeScript.
+* [yarnhook](https://github.com/frontsideair/yarnhook) - yarnhook keeps your node_modules up-to-date when your yarn.lock, package-lock.json or shrinkwrap.yaml changes due to git operations like checkout, merge, rebase, pull etc.
 
 ## Benchmarks
 
