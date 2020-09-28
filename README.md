@@ -34,6 +34,7 @@
 - [Why we switched from Yarn to pnpm ](https://www.takeshape.io/articles/why-we-switched-from-yarn-to-pnpm/)
 - [Using pnpm with private registries in Bytesafe](https://bytesafe.dev/posts/pnpm-package-manager/)
 - [Mono repository done right!](https://blog.ghaiklor.com/2020/07/12/mono-repository-done-right/comment-page-1/)
+- [pnpm: A Space-Efficient JavaScript Package Manager](https://medium.com/javascript-in-plain-english/what-is-pnpm-a-space-efficient-javascript-package-manager-2876b623b81d)
 
 In German :de::
 - [JavaScript-Paketmanager pnpm 4 überarbeitet die Verzeichnisstruktur](https://www.heise.de/developer/meldung/JavaScript-Paketmanager-pnpm-4-ueberarbeitet-die-Verzeichnisstruktur-4550827.html)
