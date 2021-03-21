@@ -27,18 +27,18 @@
 - 02-02-2019: [What is pnpm?](https://flaviocopes.com/pnpm/)
 - 19-05-2019: [NPM vs Yarn vs PNPM: A Package Manager Comparison](https://smddzcy.com/posts/2019-05-19/npm-vs-yarn-vs-pnpm-package-manager-comparison)
 - 03-04-2019: [I reclaimed 10GB of disk space from node_modules](https://dev.to/irreverentmike/i-reclaimed-10gb-of-disk-space-from-node-modules-oal)
-- [PNPM-Fast Performant Replacement Of NPM](https://www.zeptobook.com/pnpm-fast-performant-replacement-of-npm/)
-- [An abbreviated history of JavaScript package managers](https://medium.com/@MattGoldwater/an-abbreviated-history-of-javascript-package-managers-f9797be7cf0e)
-- [The Case for pnpm Over npm or Yarn](https://medium.com/better-programming/the-case-for-pnpm-over-npm-or-yarn-2b221607119)
-- [pnpm: a Space-Efficient JavaScript Package Manager](https://www.infoq.com/news/2020/06/pnpm-javascript-package-manager/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=Web-Development)
-- [Why we switched from Yarn to pnpm ](https://www.takeshape.io/articles/why-we-switched-from-yarn-to-pnpm/)
-- [Using pnpm with private registries in Bytesafe](https://bytesafe.dev/posts/pnpm-package-manager/)
-- [Mono repository done right!](https://blog.ghaiklor.com/2020/07/12/mono-repository-done-right/comment-page-1/)
-- [pnpm: A Space-Efficient JavaScript Package Manager](https://medium.com/javascript-in-plain-english/what-is-pnpm-a-space-efficient-javascript-package-manager-2876b623b81d)
+- 10-02-2019: [PNPM-Fast Performant Replacement Of NPM](https://www.zeptobook.com/pnpm-fast-performant-replacement-of-npm/)
+- 28-12-2019: [An abbreviated history of JavaScript package managers](https://medium.com/@MattGoldwater/an-abbreviated-history-of-javascript-package-managers-f9797be7cf0e)
+- 19-03-2020: [The Case for pnpm Over npm or Yarn](https://medium.com/better-programming/the-case-for-pnpm-over-npm-or-yarn-2b221607119)
+- 01-06-2020: [pnpm: a Space-Efficient JavaScript Package Manager](https://www.infoq.com/news/2020/06/pnpm-javascript-package-manager/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=Web-Development)
+- 09-06-2020: [Why we switched from Yarn to pnpm ](https://www.takeshape.io/articles/why-we-switched-from-yarn-to-pnpm/)
+- 09-06-2020: [Using pnpm with private registries in Bytesafe](https://bytesafe.dev/posts/pnpm-package-manager/)
+- 12-07-2020: [Mono repository done right!](https://blog.ghaiklor.com/2020/07/12/mono-repository-done-right/comment-page-1/)
+- 27-09-2020: [pnpm: A Space-Efficient JavaScript Package Manager](https://medium.com/javascript-in-plain-english/what-is-pnpm-a-space-efficient-javascript-package-manager-2876b623b81d)
 
 In German :de::
-- [JavaScript-Paketmanager pnpm 4 überarbeitet die Verzeichnisstruktur](https://www.heise.de/developer/meldung/JavaScript-Paketmanager-pnpm-4-ueberarbeitet-die-Verzeichnisstruktur-4550827.html)
-- [pnpm 4.0 veröffentlicht: Eine Alternative zu npm mit überarbeitetem Konzept](https://entwickler.de/online/javascript/pnpm-4-0-package-manager-579910357.html)
+- 10-10-2019: [JavaScript-Paketmanager pnpm 4 überarbeitet die Verzeichnisstruktur](https://www.heise.de/developer/meldung/JavaScript-Paketmanager-pnpm-4-ueberarbeitet-die-Verzeichnisstruktur-4550827.html)
+- 09-10-2019: [pnpm 4.0 veröffentlicht: Eine Alternative zu npm mit überarbeitetem Konzept](https://entwickler.de/online/javascript/pnpm-4-0-package-manager-579910357.html)
 
 In French :fr::
 - 19-03-2021: [Migration PNPM chez Malt](https://medium.com/nerds-malt/migration-pnpm-chez-malt-4464e5e8069c)
