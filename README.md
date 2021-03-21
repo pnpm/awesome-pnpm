@@ -18,15 +18,15 @@
 - [pnpm blog on Medium](https://medium.com/pnpm)
 - [Why should we use pnpm?](https://medium.com/pnpm/why-should-we-use-pnpm-75ca4bfe7d93)
 - [pnpm’s strictness helps to avoid silly bugs](https://medium.com/pnpm/pnpms-strictness-helps-to-avoid-silly-bugs-9a15fb306308)
-- [Overview of differences between npm, yarn and pnpm](https://hackernoon.com/understanding-differences-between-npm-yarn-and-pnpm-31bb6b0c87b3)
-- [Why I still don't use Yarn](https://intoli.com/blog/node-package-manager-benchmarks/)
+- 01-05-2017: [Overview of differences between npm, yarn and pnpm](https://hackernoon.com/understanding-differences-between-npm-yarn-and-pnpm-31bb6b0c87b3)
+- 12-06-2017: [Why I still don't use Yarn](https://intoli.com/blog/node-package-manager-benchmarks/)
 - [Rush ~ NPM vs PNPM vs Yarn](https://rushjs.io/pages/maintainer/package_managers/)
 - [Trying pnpm on the JustAnswer multi-package repository](https://www.justanswer.com/blog/engineering/pnpm-on-justanswer-multi-package-repository)
-- [Package Manager Rumble](https://www.telerik.com/blogs/package-manager-rumble)
-- [NPM, Yarn and PNPM: Which Package Manager Should You Use for SharePoint Framework Projects?](http://www.andrewconnell.com/blog/npm-yarn-pnpm-which-package-manager-should-you-use-for-sharepoint-framework-projects)
-- [What is pnpm?](https://flaviocopes.com/pnpm/)
-- [NPM vs Yarn vs PNPM: A Package Manager Comparison](https://smddzcy.com/posts/2019-05-19/npm-vs-yarn-vs-pnpm-package-manager-comparison)
-- [I reclaimed 10GB of disk space from node_modules](https://dev.to/irreverentmike/i-reclaimed-10gb-of-disk-space-from-node-modules-oal)
+- 27-03-2018: [Package Manager Rumble](https://www.telerik.com/blogs/package-manager-rumble)
+- 13-06-2018: [NPM, Yarn and PNPM: Which Package Manager Should You Use for SharePoint Framework Projects?](http://www.andrewconnell.com/blog/npm-yarn-pnpm-which-package-manager-should-you-use-for-sharepoint-framework-projects)
+- 02-02-2019: [What is pnpm?](https://flaviocopes.com/pnpm/)
+- 19-05-2019: [NPM vs Yarn vs PNPM: A Package Manager Comparison](https://smddzcy.com/posts/2019-05-19/npm-vs-yarn-vs-pnpm-package-manager-comparison)
+- 03-04-2019: [I reclaimed 10GB of disk space from node_modules](https://dev.to/irreverentmike/i-reclaimed-10gb-of-disk-space-from-node-modules-oal)
 - [PNPM-Fast Performant Replacement Of NPM](https://www.zeptobook.com/pnpm-fast-performant-replacement-of-npm/)
 - [An abbreviated history of JavaScript package managers](https://medium.com/@MattGoldwater/an-abbreviated-history-of-javascript-package-managers-f9797be7cf0e)
 - [The Case for pnpm Over npm or Yarn](https://medium.com/better-programming/the-case-for-pnpm-over-npm-or-yarn-2b221607119)
@@ -41,7 +41,7 @@ In German :de::
 - [pnpm 4.0 veröffentlicht: Eine Alternative zu npm mit überarbeitetem Konzept](https://entwickler.de/online/javascript/pnpm-4-0-package-manager-579910357.html)
 
 In French :fr::
-- [Migration PNPM chez Malt](https://medium.com/nerds-malt/migration-pnpm-chez-malt-4464e5e8069c)
+- 19-03-2021: [Migration PNPM chez Malt](https://medium.com/nerds-malt/migration-pnpm-chez-malt-4464e5e8069c)
 
 ## Podcasts
 
