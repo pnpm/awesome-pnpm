@@ -35,6 +35,7 @@
 - 09-06-2020: [Using pnpm with private registries in Bytesafe](https://bytesafe.dev/posts/pnpm-package-manager/)
 - 12-07-2020: [Mono repository done right!](https://blog.ghaiklor.com/2020/07/12/mono-repository-done-right/comment-page-1/)
 - 27-09-2020: [pnpm: A Space-Efficient JavaScript Package Manager](https://medium.com/javascript-in-plain-english/what-is-pnpm-a-space-efficient-javascript-package-manager-2876b623b81d)
+- 22-03-2021: [How to Use PNPM in Netlify Build](https://www.seancdavis.com/blog/use-pnpm-with-netlify/)
 
 In German :de::
 - 10-10-2019: [JavaScript-Paketmanager pnpm 4 überarbeitet die Verzeichnisstruktur](https://www.heise.de/developer/meldung/JavaScript-Paketmanager-pnpm-4-ueberarbeitet-die-Verzeichnisstruktur-4550827.html)
