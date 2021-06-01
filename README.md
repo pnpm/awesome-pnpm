@@ -43,6 +43,7 @@ In German :de::
 
 In French :fr::
 - 19-03-2021: [Migration PNPM chez Malt](https://medium.com/nerds-malt/migration-pnpm-chez-malt-4464e5e8069c)
+- 01-06-2021: [On a changé notre gestionnaire de dépendances front](https://blog.yousign.io/posts/on-a-change-notre-gestionnaire-de-dependances-front?utm_source=twitter&utm_medium=social&utm_campaign=blogep)
 
 ## Podcasts
 
